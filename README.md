@@ -1,6 +1,6 @@
 # Collaborative Delta Robot 
 
-### A 3-DOF Parallel Manipulator featuring Custom Inverse Kinematics, Closed-Loop Magnetic Encoder Feedback, and Pneumatic End-Effector Control
+## A 3-DOF Parallel Manipulator featuring Custom Inverse Kinematics, Closed-Loop Magnetic Encoder Feedback, and Pneumatic End-Effector Control
 
 A three-arm parallel robot developed as part of my **Level-3, Term-1 coursework at Bangladesh University of Engineering and Technology (BUET)**. The robot was designed to position a common end-effector within a three-dimensional workspace and perform tasks such as picking and grabbing objects.
 
